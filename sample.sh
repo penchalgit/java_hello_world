@@ -1,5 +1,4 @@
-import groovy.io.FileType
-
+ $ /bin/sh
 String folderPath = "/home/ubuntu/java_docker" + "\\" + "Dockerfile"
 def list = []
 def dir = new File("/home/ubuntu/java_docker")
